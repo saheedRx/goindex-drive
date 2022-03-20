@@ -66,7 +66,7 @@ function nav(path) {
 	}
 	html += `<div class="mdui-toolbar-spacer"></div>
     <a <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<a href="https://t.me/Tamil_Kingdom" class="fa fa-telegram"></a>
+       <a href="https://t.me/Tamil_Kingdom" class="fa fa-telegram"></a>
     </a>`;
 	$('#nav').html(html);
 }
