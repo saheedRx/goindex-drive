@@ -67,7 +67,7 @@ function nav(path) {
 	}
 	html += `<div class="mdui-toolbar-spacer"></div>
     <a href="https://t.me/Tamil_Kingdom" target="_blank" class="mdui-btn mdui-btn-icon mdui-ripple mdui-ripple-white" mdui-tooltip="{content: 'OUR CHANNEL'}">
-       href="https://t.me/Tamil_Kingdom" class="fa fa-telegram">
+       <img alt="svgImg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4Igp3aWR0aD0iMjQiIGhlaWdodD0iMjQiCnZpZXdCb3g9IjAgMCA0OCA0OCIKc3R5bGU9IiBmaWxsOiMwMDAwMDA7Ij48cGF0aCBmaWxsPSIjMjliNmY2IiBkPSJNMjQgNEEyMCAyMCAwIDEgMCAyNCA0NEEyMCAyMCAwIDEgMCAyNCA0WiI+PC9wYXRoPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0zMy45NSwxNWwtMy43NDYsMTkuMTI2YzAsMC0wLjE2MSwwLjg3NC0xLjI0NSwwLjg3NGMtMC41NzYsMC0wLjg3My0wLjI3NC0wLjg3My0wLjI3NGwtOC4xMTQtNi43MzMgbC0zLjk3LTIuMDAxbC01LjA5NS0xLjM1NWMwLDAtMC45MDctMC4yNjItMC45MDctMS4wMTJjMC0wLjYyNSwwLjkzMy0wLjkyMywwLjkzMy0wLjkyM2wyMS4zMTYtOC40NjggYy0wLjAwMS0wLjAwMSwwLjY1MS0wLjIzNSwxLjEyNi0wLjIzNEMzMy42NjcsMTQsMzQsMTQuMTI1LDM0LDE0LjVDMzQsMTQuNzUsMzMuOTUsMTUsMzMuOTUsMTV6Ij48L3BhdGg+PHBhdGggZmlsbD0iI2IwYmVjNSIgZD0iTTIzLDMwLjUwNWwtMy40MjYsMy4zNzRjMCwwLTAuMTQ5LDAuMTE1LTAuMzQ4LDAuMTJjLTAuMDY5LDAuMDAyLTAuMTQzLTAuMDA5LTAuMjE5LTAuMDQzIGwwLjk2NC01Ljk2NUwyMywzMC41MDV6Ij48L3BhdGg+PHBhdGggZmlsbD0iI2NmZDhkYyIgZD0iTTI5Ljg5NywxOC4xOTZjLTAuMTY5LTAuMjItMC40ODEtMC4yNi0wLjcwMS0wLjA5M0wxNiwyNmMwLDAsMi4xMDYsNS44OTIsMi40MjcsNi45MTIgYzAuMzIyLDEuMDIxLDAuNTgsMS4wNDUsMC41OCwxLjA0NWwwLjk2NC01Ljk2NWw5LjgzMi05LjA5NkMzMC4wMjMsMTguNzI5LDMwLjA2NCwxOC40MTYsMjkuODk3LDE4LjE5NnoiPjwvcGF0aD48L3N2Zz4="/>
     </a>`;
 	$('#nav').html(html);
 }
